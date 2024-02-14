@@ -309,7 +309,8 @@ html {line-height: 1.15; /* 1 */
 
 [data-section-theme="dark"] {--text-color: var(--color-white);
 	--section-title-color: var(--color-white);
-    background-color: var(--color-black);}
+    background-color: var(--color-black);
+    --button-color: var(--color-white);}
 
 *, *::before, *::after {box-sizing: border-box;}
 
